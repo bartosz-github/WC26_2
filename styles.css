@@ -1,5 +1,5 @@
 * {
-  background-color: lightslategrey;
+  /* background-color: lightslategrey; */
 }
 
 table, th, td {
@@ -14,12 +14,21 @@ td {
      text-align: center;
 }
 .phase {
-  background-color: yellowgreen;
+  background-color: cadetblue ;
   width: 175px;
   text-align: left;
 }
 
-
+#groupA, #groupC,#groupE, #groupG,#groupI, #groupK   {
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: cadetblue ;
+}
+#groupB, #groupD,#groupF, #groupH,#groupJ, #groupL  {
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: burlywood ;
+}
 /* tr:hover {background-color: #D6EEEE;} */
 
 /* ######################################################################## */
