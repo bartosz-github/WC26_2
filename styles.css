@@ -1,21 +1,24 @@
+* {
+  background-color: lightslategrey;
+}
+
 table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
+  border: 1px solid black;
+  border-radius: 10px;
 }
 /* th, td {
   background-color: #96D4D4;
 } */
 td {
-     text-orientation: upright;
+     width: 110px;
+     text-align: center;
+}
+.phase {
+  background-color: yellowgreen;
+  width: 175px;
+  text-align: left;
 }
 
-tr:nth-child(even) {
-  background-color: rgba(150, 212, 212, 0.4);
-}
-
-th:nth-child(even),td:nth-child(even) {
-  background-color: rgba(150, 212, 212, 0.4);
-}
 
 /* tr:hover {background-color: #D6EEEE;} */
 
