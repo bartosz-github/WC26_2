@@ -14,21 +14,26 @@ td {
      text-align: center;
 }
 .phase {
-  background-color: cadetblue ;
+  /* background-color: cadetblue ; */
   width: 175px;
   text-align: left;
 }
 
 #groupA, #groupC,#groupE, #groupG,#groupI, #groupK   {
-  border: 3px solid black;
+  border: 3px solid cadetblue;
   border-radius: 10px;
-  background-color: cadetblue ;
 }
 #groupB, #groupD,#groupF, #groupH,#groupJ, #groupL  {
-  border: 3px solid black;
+  border: 3px solid burlywood;
   border-radius: 10px;
-  background-color: burlywood ;
 }
+
+.blank {
+  color: white;
+  background-color: white;
+}
+
+
 /* tr:hover {background-color: #D6EEEE;} */
 
 /* ######################################################################## */
