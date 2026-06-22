@@ -10,7 +10,9 @@ table, th, td {
   background-color: #96D4D4;
 } */
 td {
-     width: 110px;
+     width: 100px;
+     padding: 1px;
+     margin: 1px;
      text-align: center;
 }
 .phase {
@@ -31,6 +33,12 @@ td {
 .blank {
   color: white;
   background-color: white;
+}
+
+.lost {
+  background-color: rgb(242, 242, 242);
+  color: maroon;
+  text-decoration: line-through;
 }
 
 
