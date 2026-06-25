@@ -1,11 +1,16 @@
-* {
-  /* background-color: lightslategrey; */
-}
+/* * {
+  background-color: lightslategrey;
+} */
 
-table, th, td {
+table, td {
   border: 2px solid black;
   border-radius: 10px;
   background-color: lightgray;
+}
+
+th {
+  background-color: lightgray;
+  border-radius: 10px;
 }
 
 td {
@@ -33,18 +38,20 @@ td {
 }
 
 #groups{
-  border-top: 5px solid black;
+
   /* border: solid black; */
   border-radius: 10px;
 }
 
-#groupA, #groupC,#groupE, #groupG,#groupI, #groupK   {
+#groupA, #groupC, #groupE, #groupG,#groupI, #groupK   {
   border: solid cadetblue;
   border-radius: 10px;
+  background-color: white;
 }
-#groupB, #groupD,#groupF, #groupH,#groupJ, #groupL  {
+#groupB, #groupD, #groupF, #groupH,#groupJ, #groupL  {
   border: 3px solid burlywood;
   border-radius: 10px;
+  background-color: white;
 }
 
 .blank {
@@ -53,7 +60,7 @@ td {
 }
 
 .lost {
-  background-color: rgba(242, 242, 242, 0.5);
+  background-color: white; /*rgba(242, 242, 242, 0.5);*/
   /* color: maroon; */
   text-decoration: line-through;
 }

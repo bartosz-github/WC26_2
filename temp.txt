@@ -1,0 +1,61 @@
+      <!--Group A-->
+      <td id="groupA" class="tooltip labels">MEX <br><img src="img\MEX.png" alt="MEX" width="30" height="20"><span class="tooltiptext">Mexico</span></td>
+      <td id="groupA" class="tooltip labels">RSA <br><img src="img\RSA.png" alt="RSA" width="30" height="20"><span class="tooltiptext">South Africa</span></td>
+      <td id="groupA" class="tooltip labels">KOR <br><img src="img\KOR.png" alt="KOR" width="30" height="20"><span class="tooltiptext">Korea Republic</span></td>
+      <td id="groupA" class="tooltip labels">CZE <br><img src="img\CZE.png" alt="CZE" width="30" height="20"><span class="tooltiptext">Czech Republic</span></td>
+      <!--Group B-->
+      <td id="groupB" class="tooltip labels">CAN <br><img src="img\CAN.png" alt="CAN" width="30" height="20"><span class="tooltiptext">Canada</span></td>
+      <td id="groupB" class="tooltip labels">BIH <br><img src="img\BIH.png" alt="BIH" width="30" height="20"><span class="tooltiptext">Bosnia and Herzegovina</span></td>
+      <td id="groupB" class="tooltip labels">QAT <br><img src="img\QAT.png" alt="QAT" width="30" height="20"><span class="tooltiptext">Qatar</span></td>
+      <td id="groupB" class="tooltip labels">SUI <br><img src="img\SUI.png" alt="SUI" width="30" height="20"><span class="tooltiptext">Switzerland</span></td>
+      <!--Group C-->
+      <td id="groupC" class="tooltip labels">BRA <br><img src="img\BRA.png" alt="BRA" width="30" height="20"><span class="tooltiptext">Brazil</span></td>
+      <td id="groupC" class="tooltip labels">MAR <br><img src="img\MAR.png" alt="MAR" width="30" height="20"><span class="tooltiptext">Morocco</span></td>
+      <td id="groupC" class="tooltip labels">HAI <br><img src="img\HAI.png" alt="HAI" width="30" height="20"><span class="tooltiptext">Haiti</span></td>
+      <td id="groupC" class="tooltip labels">SCO <br><img src="img\SCO.png" alt="SCO" width="30" height="20"><span class="tooltiptext">Scotland</span></td>
+      <!--Group D-->
+      <td id="groupD" class="tooltip labels">USA <br><img src="img\USA.png" alt="USA" width="30" height="20"><span class="tooltiptext">USA</span></td>
+      <td id="groupD" class="tooltip labels">PAR <br><img src="img\PAR.png" alt="PAR" width="30" height="20"><span class="tooltiptext">Paraguay</span></td>
+      <td id="groupD" class="tooltip labels">AUS <br><img src="img\AUS.png" alt="AUS" width="30" height="20"><span class="tooltiptext">Australia</span></td>
+      <td id="groupD" class="tooltip labels">TUR <br><img src="img\TUR.png" alt="TUR" width="30" height="20"><span class="tooltiptext">Turkey</span></td>
+      <!--Group E-->
+      <td id="groupE" class="tooltip labels">GER <br><img src="img\GER.png" alt="GER" width="30" height="20"><span class="tooltiptext">Germany</span></td>
+      <td id="groupE" class="tooltip labels">CUW <br><img src="img\CUW.png" alt="CUW" width="30" height="20"><span class="tooltiptext">Curaçao</span></td>
+      <td id="groupE" class="tooltip labels">CIV <br><img src="img\CIV.png" alt="CIV" width="30" height="20"><span class="tooltiptext">Ivory Coast</span></td>
+      <td id="groupE" class="tooltip labels">ECU <br><img src="img\ECU.png" alt="ECU" width="30" height="20"><span class="tooltiptext">Ecuador</span></td>
+      <!--Group F-->
+      <td id="groupF" class="tooltip labels">NED <br><img src="img\NED.png" alt="NED" width="30" height="20"><span class="tooltiptext">Netherlands</span></td>
+      <td id="groupF" class="tooltip labels">JPN <br><img src="img\JPN.png" alt="JPN" width="30" height="20"><span class="tooltiptext">Japan</span></td>
+      <td id="groupF" class="tooltip labels">SWE <br><img src="img\SWE.png" alt="SWE" width="30" height="20"><span class="tooltiptext">Sweden</span></td>
+      <td id="groupF" class="tooltip labels">TUN <br><img src="img\TUN.png" alt="TUN" width="30" height="20"><span class="tooltiptext">Tunisia</span></td>
+      <!--Group G-->
+      <td id="groupG" class="tooltip labels">BEL <br><img src="img\BEL.png" alt="BEL" width="30" height="20"><span class="tooltiptext">Belgium</span></td>
+      <td id="groupG" class="tooltip labels">EGY <br><img src="img\EGY.png" alt="EGY" width="30" height="20"><span class="tooltiptext">Egypt</span></td>
+      <td id="groupG" class="tooltip labels">IRN <br><img src="img\IRN.png" alt="IRN" width="30" height="20"><span class="tooltiptext">Iran</span></td>
+      <td id="groupG" class="tooltip labels">NZL <br><img src="img\NZL.png" alt="NZL" width="30" height="20"><span class="tooltiptext">New Zealand</span></td>
+      <!--Group H-->
+      <td id="groupH" class="tooltip labels">ESP <br><img src="img\ESP.png" alt="ESP" width="30" height="20"><span class="tooltiptext">Spain</span></td>
+      <td id="groupH" class="tooltip labels">CPV <br><img src="img\CPV.png" alt="CPV" width="30" height="20"><span class="tooltiptext">Cape Verde</span></td>
+      <td id="groupH" class="tooltip labels">KSA <br><img src="img\KSA.png" alt="KSA" width="30" height="20"><span class="tooltiptext">Saudi Arabia</span></td>
+      <td id="groupH" class="tooltip labels">URU <br><img src="img\URU.png" alt="URU" width="30" height="20"><span class="tooltiptext">Uruguay</span></td>
+      <!--Group I-->
+      <td id="groupI" class="tooltip labels">FRA <br><img src="img\FRA.png" alt="FRA" width="30" height="20"><span class="tooltiptext">France</span></td>
+      <td id="groupI" class="tooltip labels">SEN <br><img src="img\SEN.png" alt="SEN" width="30" height="20"><span class="tooltiptext">Senegal</span></td>
+      <td id="groupI" class="tooltip labels">IRQ <br><img src="img\IRQ.png" alt="IRQ" width="30" height="20"><span class="tooltiptext">Iraq</span></td>
+      <td id="groupI" class="tooltip labels">NOR <br><img src="img\NOR.png" alt="NOR" width="30" height="20"><span class="tooltiptext">Norway</span></td>
+      <!--Group J-->
+      <td id="groupJ" class="tooltip labels">ARG <br><img src="img\ARG.png" alt="ARG" width="30" height="20"><span class="tooltiptext">Argentina</span></td>
+      <td id="groupJ" class="tooltip labels">ALG <br><img src="img\ALG.png" alt="ALG" width="30" height="20"><span class="tooltiptext">Algeria</span></td>
+      <td id="groupJ" class="tooltip labels">AUT <br><img src="img\AUT.png" alt="AUT" width="30" height="20"><span class="tooltiptext">Austria</span></td>
+      <td id="groupJ" class="tooltip labels">JOR <br><img src="img\JOR.png" alt="JOR" width="30" height="20"><span class="tooltiptext">Jordan</span></td>
+      <!--Group K-->
+      <td id="groupK" class="tooltip labels">POR <br><img src="img\POR.png" alt="POR" width="30" height="20"><span class="tooltiptext">Portugal</span></td>
+      <td id="groupK" class="tooltip labels">COD <br><img src="img\COD.png" alt="COD" width="30" height="20"><span class="tooltiptext">DR Congo</span></td>
+      <td id="groupK" class="tooltip labels">UZB <br><img src="img\UZB.png" alt="UZB" width="30" height="20"><span class="tooltiptext">Uzbekistan</span></td>
+      <td id="groupK" class="tooltip labels">COL <br><img src="img\COL.png" alt="COL" width="30" height="20"><span class="tooltiptext">Colombia</span></td>
+      <!--Group L-->
+      <td id="groupL" class="tooltip labels">ENG <br><img src="img\ENG.png" alt="ENG" width="30" height="20"><span class="tooltiptext">England</span></td>
+      <td id="groupL" class="tooltip labels">CRO <br><img src="img\CRO.png" alt="CRO" width="30" height="20"><span class="tooltiptext">Croatia</span></td>
+      <td id="groupL" class="tooltip labels">GHA <br><img src="img\GHA.png" alt="GHA" width="30" height="20"><span class="tooltiptext">Ghana</span></td>
+      <td id="groupL" class="tooltip labels">PAN <br><img src="img\PAN.png" alt="PAN" width="30" height="20"><span class="tooltiptext">Panama</span></td> 
+    
