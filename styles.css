@@ -1,6 +1,6 @@
-/* * {
-  background-color: lightslategrey;
-} */
+body {
+  background-color: lightgrey;
+} 
 
 table, td {
   border: 2px solid black;
@@ -14,10 +14,10 @@ th {
 }
 
 td {
-     width: 100px;
-     padding: 1px;
-     margin: 1px;
-     text-align: center;
+  width: 100px;
+  padding: 1px;
+  margin: 1px;
+  text-align: center;
 }
 
 #groupgames {
