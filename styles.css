@@ -70,6 +70,25 @@ td {
   /* color: greenyellow; */
 }
 
+#fin_groups {
+  text-align: left;
+  text-wrap: nowrap;
+}
+
+.progress {
+  border-color: MediumAquaMarine;
+  border-width: 3px;
+}
+
+.advance {
+  border-color: MediumAquaMarine;
+  border-width: 3px;
+}
+.eliminated{
+   border-color: indianred;
+  border-width: 3px;
+}
+
 /* ######################################################################## */
 .tooltip {
   position: relative;
