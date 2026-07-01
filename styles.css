@@ -84,11 +84,15 @@ td {
   border-color: MediumAquaMarine;
   border-width: 3px;
 }
+.out{
+  background-color: lightgray;
+  border-style: none;
+}
 .eliminated{
-   border-color: indianred;
+  border-color: indianred;
+  background-image: linear-gradient(to bottom right,  transparent calc(50% - 3px), tomato, transparent calc(50% + 3px)); 
   border-width: 3px;
 }
-
 /* ######################################################################## */
 .tooltip {
   position: relative;
