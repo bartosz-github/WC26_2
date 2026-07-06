@@ -27,8 +27,8 @@ td {
 
 #pos {
   writing-mode:sideways-lr;
-  text-wrap: nowrap;
-  width: 66px;
+  /* text-wrap: nowrap; */
+  width: 75px;
 }
 
 .phase {
