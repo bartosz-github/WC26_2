@@ -101,6 +101,13 @@ td {
   background-image: linear-gradient(to bottom right,  transparent calc(50% - 3px), tomato, transparent calc(50% + 3px)); 
   border-width: 3px;
 }
+
+#Top_scorers{
+  border: solid;
+  border-width: 3px;
+  border-color: goldenrod;
+}
+
 /* ######################################################################## */
 .tooltip {
   position: relative;
