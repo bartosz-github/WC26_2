@@ -118,6 +118,10 @@ td {
   border-radius: 15%;
 }
 
+.background {
+  background-color: white;
+}
+
 /* ######################################################################## */
 .tooltip {
   position: relative;
