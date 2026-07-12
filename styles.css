@@ -122,6 +122,10 @@ td {
   background-color: white;
 }
 
+.clean {
+  border-style: none;
+}
+
 /* ######################################################################## */
 .tooltip {
   position: relative;
