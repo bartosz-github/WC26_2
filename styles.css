@@ -126,6 +126,14 @@ td {
   border-style: none;
 }
 
+/* .winners {
+
+} */
+
+#winnerz {
+  background-color: gold; 
+  border-color: gold;
+}
 /* ######################################################################## */
 .tooltip {
   position: relative;
