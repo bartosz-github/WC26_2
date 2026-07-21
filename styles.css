@@ -127,15 +127,26 @@ td {
 }
 
 
-/* #winnerz {
-  background-color: gold; 
-  border-color: gold;
-} */
+#winner {
+  background-color: gold;
+  border-color: goldenrod;
+}
+
+#runnersup {
+  background-color: silver;
+  border-color: darkgray;
+}
+
+#thirdplace {
+  background-color: #cd7f32;
+  border-color: #cd7f32;
+}
 /* ######################################################################## */
 .tooltip {
   position: relative;
   cursor: pointer;
 }
+
 
 .tooltiptext {
   visibility: hidden;
